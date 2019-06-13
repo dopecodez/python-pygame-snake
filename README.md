@@ -5,7 +5,8 @@ The snake can eat food, grow longer, and collide with itself.
 Who likes boundaries, so snake is free to go through one side of the screen and appear on opposite.
 Implements background sounds, eating sounds and game over sounds using pygame.mixer() with multiple channels.
 Also displays a score and a game over message. 
-Please use the #ESCAPE# key to quit the game.
+Please use the #ESCAPE key to quit the game.
+Also note that the backgound-sound.wav is not uploaded. I shall add a new background sound soon but in the meantime, please add a background-sound.wav file to the sounds folder to get the project up and running.
 
 ## Getting Started
 
